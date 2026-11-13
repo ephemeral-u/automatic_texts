@@ -1,0 +1,40 @@
+{
+  "test": "premise_removal",
+  "question_id": "Q03",
+  "removed_claim_id": "C27",
+  "original_claim_ids": [
+    "C26",
+    "C27",
+    "C14",
+    "C17",
+    "C25",
+    "C23",
+    "C36",
+    "C13",
+    "C15",
+    "C32",
+    "C34",
+    "C03",
+    "C04",
+    "C20",
+    "C01"
+  ],
+  "modified_claim_ids": [
+    "C26",
+    "C14",
+    "C17",
+    "C25",
+    "C23",
+    "C36",
+    "C13",
+    "C15",
+    "C32",
+    "C34",
+    "C03",
+    "C04",
+    "C20",
+    "C01"
+  ],
+  "expected_status": "insufficient",
+  "manually_verified": false
+}

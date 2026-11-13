@@ -1,0 +1,42 @@
+{
+  "test": "document_shuffle",
+  "random_state": 42,
+  "original_order": [
+    "D01",
+    "D02",
+    "D03",
+    "D04",
+    "D05",
+    "D06",
+    "D07",
+    "D08",
+    "D09",
+    "D10"
+  ],
+  "modified_order": [
+    "D08",
+    "D04",
+    "D03",
+    "D09",
+    "D06",
+    "D07",
+    "D10",
+    "D05",
+    "D01",
+    "D02"
+  ],
+  "expected_statuses": {
+    "Q01": "entailed",
+    "Q02": "entailed",
+    "Q03": "entailed",
+    "Q04": "entailed",
+    "Q05": "entailed",
+    "Q06": "entailed",
+    "Q07": "entailed",
+    "Q08": "entailed",
+    "Q09": "both",
+    "Q10": "contradicted",
+    "Q11": "insufficient",
+    "Q12": "insufficient"
+  }
+}

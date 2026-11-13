@@ -1,0 +1,39 @@
+{
+  "question_id": "Q04",
+  "removed_claim_id": "C19",
+  "original_claim_ids": [
+    "C36",
+    "C20",
+    "C04",
+    "C34",
+    "C14",
+    "C19",
+    "C01",
+    "C03",
+    "C18",
+    "C28",
+    "C05",
+    "C21",
+    "C26",
+    "C06",
+    "C17"
+  ],
+  "modified_claim_ids": [
+    "C36",
+    "C20",
+    "C04",
+    "C34",
+    "C14",
+    "C01",
+    "C03",
+    "C18",
+    "C28",
+    "C05",
+    "C21",
+    "C26",
+    "C06",
+    "C17"
+  ],
+  "expected_status": null,
+  "manually_verified": false
+}
